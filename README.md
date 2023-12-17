@@ -36,5 +36,5 @@ HTML, CSS, Javascript, MySQL, Php
 4. View Details and Edit Batch timings in portal.
 
 ## Video Explaination
-[![Watch the video](https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8Mnx8fGVufDB8fHx8&w=1000&q=80)](https://clipchamp.com/watch/LNFSGHQ4odY)
+[![Watch the video](https://media.istockphoto.com/id/627908748/photo/woman-doing-ashtanga-vinyasa-yoga-asana-dhanurasana-bow-pose.webp?s=1024x1024&w=is&k=20&c=dz37cxaBEisBqFOlB0Q1k1l71CB1oTUuKAoQ1hXHvb0=)](https://clipchamp.com/watch/LNFSGHQ4odY)
 </br> **Click on the thumbail to see the process**
