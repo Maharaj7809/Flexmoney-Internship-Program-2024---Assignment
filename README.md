@@ -16,14 +16,14 @@ same month they need to be in same batch
 ## Steps Taken
 ### Step 1
 - Design database and table schema
-![](https://github.com/akshatprogrammer/yoga-form-crud/blob/master/images/yoga_firm_schema_page-0001.jpg)
-![](https://github.com/akshatprogrammer/yoga-form-crud/blob/master/images/yoga_firm_schema_page-0002.jpg)
-![](https://github.com/akshatprogrammer/yoga-form-crud/blob/master/images/yoga_firm_schema_page-0003.jpg)
-![](https://github.com/akshatprogrammer/yoga-form-crud/blob/master/images/yoga_firm_schema_page-0004.jpg)
-![](https://github.com/akshatprogrammer/yoga-form-crud/blob/master/images/yoga_firm_schema_page-0005.jpg)
+![](https://github.com/Maharaj7809/Flexmoney-Internship-Program-2024---Assignment/blob/master/images/yoga_firm_schema_page-0001.png)
+![](https://github.com/Maharaj7809/Flexmoney-Internship-Program-2024---Assignment/blob/master/images/yoga_firm_schema_page-0002.png)
+![](https://github.com/Maharaj7809/Flexmoney-Internship-Program-2024---Assignment/blob/master/images/yoga_firm_schema_page-0003.png)
+![](https://github.com/Maharaj7809/Flexmoney-Internship-Program-2024---Assignment/blob/master/images/yoga_firm_schema_page-0004.png)
+![](https://github.com/Maharaj7809/Flexmoney-Internship-Program-2024---Assignment/blob/master/images/yoga_firm_schema_page-0005.png)
 
 ## E-R Diagram
-![](https://github.com/akshatprogrammer/yoga-form-crud/blob/master/images/er.jpg)
+![](https://github.com/Maharaj7809/Flexmoney-Internship-Program-2024---Assignment/blob/master/images/er.png)
 ### Step 2
 - Choosing Tech Stack
 HTML, CSS, Javascript, MySQL, Php
